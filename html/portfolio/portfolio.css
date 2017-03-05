@@ -1,0 +1,443 @@
+/* this is a css comment */
+
+.navbar {
+  text-align: right;
+  background-color: #cd5360;
+  width: 100%;
+  margin: -15px 0px 0px -10px;
+  padding: 10px 10px 10px 0px;
+  position: fixed;
+  opacity: .8;
+
+
+
+
+}
+
+.navbar a {
+  margin: 0 0 0 0px;
+  padding-right: 20px;
+  font-family: futura; sans-serif;
+  text-decoration: none;
+  color: #ecf0f1;
+  min-width: 320px;
+
+}
+
+.navbar a:hover {
+  color: #286da8;
+}
+
+.opening {
+  text-align: center;
+
+}
+
+.opening p {
+  font-family: baskerville; sans-serif;
+  max-width: 400px;
+  min-width: 320px;
+  margin-top: -35px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 25px;
+  padding: 10px 5px 10px 5px;
+
+}
+
+
+
+.opening ul {
+
+}
+
+.opening li {
+  font-family: baskerville, sans-serif;
+  text-align: left;
+  display: inline-block;
+  font-size: 25px;
+
+}
+
+.opening2 {
+  text-align: center;
+
+}
+
+.opening2 p {
+  font-family: baskerville; sans-serif;
+  max-width: 800px;
+  min-width: 320px;
+  margin-top: -35px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 25px;
+  padding: 10px 5px 10px 5px;
+
+}
+
+.opening3 img {
+  height: auto;
+  width: auto;
+  max-width: 450px;
+  max-height: 1000px;
+  border-style: solid;
+  border-color: #ecf0f1;
+}
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 20px 0px 0px 0px;
+  font-family: baskerville, sans-serif;
+
+}
+
+.largeimages img {
+  height: auto;
+  width: auto;
+  max-width: 360px;
+  max-height: 300px;
+  border-style: solid;
+  border-color: #ecf0f1;
+}
+
+.headerimages img {
+  position: relative;
+  width: 100vw;
+  height: auto;
+  margin-left: -8.5px;
+
+
+
+  border-style: none;
+
+
+}
+
+.portfolioimages {
+
+  text-align: center;
+
+}
+
+.portfolioimages p {
+
+  text-align: center;
+  font-family: baskerville, sans-serif;
+
+}
+
+.portfolioimages img {
+  height: auto;
+  max-width: 1000px;
+  max-height: 1000px;
+  border-style: solid;
+  border-color: #ecf0f1;
+
+}
+
+.portfolioimages a {
+  color: white;
+  font-family: baskerville, sans-serif;
+}
+
+img {
+  border-style: solid;
+  border-color: #ecf0f1;
+}
+
+.panes {
+  text-align: center;
+
+
+
+}
+
+.panes h3 {
+  font-size: 25px;
+}
+
+.panes p {
+  padding: 10px 15px 15px 10px;
+  font-size: 20px;
+  max-width: 400px;
+  min-width: 300px;
+}
+
+
+
+.pane1 {
+  border-style: solid;
+  border-color: black;
+  display: inline-block;
+  color: black;
+  max-width: 500px;
+  margin-bottom: 5px;
+  height: 500px;
+  vertical-align: top;
+  border-radius: 10px;
+
+
+}
+
+.pane1:hover {
+  background-color: #5DD39E;
+  border-style: solid;
+  border-color: black;
+  color: black;
+
+}
+
+
+
+
+.pane2 {
+  border-style: solid;
+  display: inline-block;
+  color: black;
+  max-width: 500px;
+  margin-bottom: 5px;
+  height: 500px;
+  vertical-align: top;
+  border-radius: 10px;
+}
+
+.pane2:hover {
+  background-color: #5DD39E;
+  border-style: solid;
+  border-color: black;
+  color: black;
+}
+
+.pane3 {
+  border-style: solid;
+  display: inline-block;
+  color: black;
+  max-width: 500px;
+  margin-bottom: 5px;
+
+  height: 500px;
+  vertical-align: top;
+  border-radius: 10px;
+}
+
+.pane3:hover {
+  background-color: #5DD39E;
+  border-style: solid;
+  border-color: black;
+  color: black;
+}
+
+.pane4 {
+  border-style: solid;
+  display: inline-block;
+  color: black;
+  max-width: 500px;
+  height: 500px;
+  vertical-align: top;
+  border-radius: 10px;
+}
+
+.pane4:hover {
+    background-color: #5DD39E;
+    border-style: solid;
+    border-color: black;
+    color: black;
+
+}
+
+
+.leftpane {
+
+  background-color: ;
+  color: white;
+  border-style: solid;
+  width: 320px;
+  height: 450px;
+  display: inline-block;
+  vertical-align: top;
+  padding: 5px 5px 5px 5px;
+  margin-bottom: 5px;
+
+
+}
+
+
+
+.rightpane {
+
+  background-color: ;
+  color: white;
+  border-style: solid;
+  width: 320px;
+  height: 450px;
+  display: inline-block;
+  vertical-align: top;
+  padding: 5px 5px 5px 5px;
+
+
+}
+
+
+.portfoliocontent {
+  text-align: center;
+
+}
+
+
+
+.portfoliocontent a {
+
+  text-decoration: none;
+  color: black;
+  border-style: solid;
+  border-color: black;
+  border-radius: 7px;
+  padding: 10px;
+}
+
+.portfoliocontent a:hover {
+  text-transform: underline;
+  color: #5DD39E;
+  background-color: white;
+}
+
+
+
+
+.contactmessage {
+
+}
+
+.contactmessage p {
+  margin-top: -35px;
+}
+
+
+.portfolioexample h3 {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+
+}
+
+.portfolioexample p {
+  font-size: 20px;
+  text-align: center;
+  max-width: 750px;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+
+}
+
+.portfolioexample p a {
+  color: blue;
+}
+
+.portfolioexample p a:hover {
+  color: black;
+}
+
+
+
+
+
+a:hover {
+  text-decoration: underline;
+  color: #0074D9;
+
+}
+
+body {
+  background-color: #286da8;
+}
+
+h1 {
+  font-family: futura, sans-serif;
+  font-size: 75px;
+
+
+}
+
+h1 p {
+  font-size: 20px;
+}
+
+
+
+h2 {
+  font-family: baskerville, sans-serif;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+
+}
+
+h3 {
+  font-family: sans-serif;
+  text-align: center;
+  width: 300px;
+
+}
+
+
+
+h4 {
+  font-family: futura, sans-serif;
+  font-size: 45px;
+  color: white;
+}
+
+
+p {
+  font-family: baskerville; sans-serif;
+  font-size: 25px;
+
+}
+
+li {
+
+
+
+}
+
+li a {
+  font-family: futura, sans-serif;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 1px 1px 1px 1px;
+  padding: 5px 5px 5px 5px;
+  display: block;
+
+}
+
+li:hover {
+
+}
+
+li a:hover {
+  text-decoration: underline;
+
+  color: white;
+}
+
+
+
+.footer {
+
+
+}
+
+.footer p {
+  text-align: center;
+  font-family: baskerville, sans-serif;
+  font-size: 15px;
+
+
+
+}
