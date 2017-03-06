@@ -79,6 +79,14 @@
 
 }
 
+.opening2 a {
+  color: black;
+}
+
+.opening2 a:hover {
+  color: white;
+}
+
 .opening3 img {
   height: auto;
   width: auto;
