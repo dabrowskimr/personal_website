@@ -381,3 +381,11 @@ li a:hover {
 
 
 }
+
+.footer a {
+  color: black;
+}
+
+.footer a:hover {
+  color: #cd5360;
+}
